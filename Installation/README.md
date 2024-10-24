@@ -61,4 +61,5 @@ To run the application locally, execute the main script:
 
 ### bash
 python main_script.py
+
 This will launch the interface where you can submit patent applications and generate IPC predictions and search reports.
