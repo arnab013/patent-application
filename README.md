@@ -10,7 +10,7 @@ This repository contains code to predict IPC sections from patent claims using a
 - [Project Structure](#project-structure)
 - [Usage](#usage)
 - [Code Explanation](#code-explanation)
-- [Dataset](#dataset)
+- [Dataset Preparation](#dataset)
 - [Model Training](#model-training)
 - [Model Deployment](#model-deployment)
 - [Contributing](#contributing)
