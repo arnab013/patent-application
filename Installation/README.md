@@ -33,6 +33,7 @@ Install the required Python libraries listed in requirements.txt by running the 
 
 ### bash
 pip install -r requirements.txt
+
 This will install all the necessary dependencies, including:
 
   fpdf
