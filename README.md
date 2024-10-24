@@ -6,7 +6,7 @@ This repository contains code to predict IPC sections from patent claims using a
 - Generating a search report in PDF format
 
 ## Table of Contents
-- ['Installation/'](#installation)
+- ['Installation/'](installation/)
 - [Project Structure](#project-structure)
 - [Usage](#usage)
 - [Code Explanation](#code-explanation)
