@@ -15,13 +15,13 @@ Creating a virtual environment helps to keep dependencies isolated from other pr
 
 On macOS/Linux:
 
-bash
-Copy code
+## bash
 python3 -m venv venv
 source venv/bin/activate
+
 On Windows:
 
-bash
+## bash
 Copy code
 python -m venv venv
 venv\Scripts\activate
@@ -30,8 +30,7 @@ Once activated, your terminal prompt should indicate you're in the virtual envir
 ### 3. Install dependencies
 Install the required Python libraries listed in requirements.txt by running the following command:
 
-bash
-Copy code
+## bash
 pip install -r requirements.txt
 This will install all the necessary dependencies, including:
 
@@ -49,18 +48,15 @@ This will install all the necessary dependencies, including:
 ### 4. Additional Setup for Jupyter (if applicable)
 If you plan to use the project in a Jupyter notebook environment, ensure you have Jupyter installed:
 
-bash
-Copy code
+## bash
 pip install notebook
 Then you can start Jupyter by running:
 
-bash
-Copy code
+## bash
 jupyter notebook
 ### 5. Running the application
 To run the application locally, execute the main script:
 
-bash
-Copy code
+## bash
 python main_script.py
 This will launch the interface where you can submit patent applications and generate IPC predictions and search reports.
